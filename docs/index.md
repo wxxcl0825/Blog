@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Jerry's Blog
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+这里是wxxcl[@Jerry]()的个人博客 :wave:
 
-## Commands
+欢迎学习交流 :bulb:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## About
 
-## Project layout
+[:fontawesome-brands-github:](https://github.com/wxxcl0825) [My GitHub](https://github.com/wxxcl0825)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[:material-email:](mailto:wxxcl20040825@google.com) [My Gmail](mailto:wxxcl20040825@google.com) and [:material-email-outline:](mailto:wxxcl0825@zju.edu.cn) [My ZJU Email](mailto:wxxcl0825@zju.edu.cn)
