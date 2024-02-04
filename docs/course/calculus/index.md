@@ -11,7 +11,7 @@
 <div class="file-icon"><img src="/assets/images/pdf.svg" style="height: 3em;"></div>
 <div class="file-body">
 <div class="file-title">数学分析甲 H 笔记 by Jerry</div>
-<div class="file-meta">27.4 MB / 325 P / 2023-10-3</div>
+<div class="file-meta">19.0 MB / 325 P / 2023-10-3</div>
 </div>
 <a class="down-button" target="_blank" href="/assets/files/数学分析甲H笔记.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
 </div>
