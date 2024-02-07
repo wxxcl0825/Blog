@@ -1,3 +1,8 @@
+# Quantum random access memory via quantum walk
+!!! info
+	Link: [iopscience](https://dx.doi.org/10.1088/2058-9565/abf484)
+
+
 ## Abstract & Conclusion
 
 Methodology:
