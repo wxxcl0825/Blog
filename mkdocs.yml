@@ -95,6 +95,7 @@ extra:
 
 plugins:
       - search
+      - callouts
       # - git-revision-date-localized:
       #         type: datetime
       #         timezone: Asia/Shanghai
@@ -260,6 +261,11 @@ nav:
                       - 基于量子计算的投资组合优化算法: reading/基于量子计算的投资组合优化算法.md
                       - A Quantum Algorithm for Shapley Value Estimation: reading/A Quantum Algorithm for Shapley Value Estimation.md
                       - Quantum random access memory via quantum walk: reading/Quantum random access memory via quantum walk.md
+      - Computer System:
+              - 论文阅读笔记:
+                      - TENET：A Framework for Modeling Tensor Dataflow Based on Relation-centric Notation: reading/TENET.md
+                      - Rubick： A Synthesis Framework for Spatial Architectures via Dataflow Decomposition: reading/Rubick.md
+                      - Ansor：Generating High-Performance Tensor Programs for Deep Learning: reading/Ansor.md
       - Miscellaneous:
               - miscellaneous/index.md
               - verilog:
