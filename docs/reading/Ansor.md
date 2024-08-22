@@ -330,10 +330,10 @@ B--"predict"-->A
 > [!note]  Throughput
 > 程序单位时间执行的计算量
 
-损失函数：加权平凡误差
+损失函数：加权平方误差
 
 $$
-\text{loss}(f,P,y)=y(\sum_{s\in S(P)}f(s)-y)
+\text{loss}(f,P,y)=y(\sum_{s\in S(P)}f(s)-y)^2
 $$
 
 + 符号：
