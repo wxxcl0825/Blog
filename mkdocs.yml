@@ -262,6 +262,8 @@ nav:
                       - A Quantum Algorithm for Shapley Value Estimation: reading/A Quantum Algorithm for Shapley Value Estimation.md
                       - Quantum random access memory via quantum walk: reading/Quantum random access memory via quantum walk.md
       - Computer System:
+              - 多面体编译理论学习笔记:
+                      - 体系结构对编译技术的影响: computer system/多面体编译理论学习笔记/体系结构对编译技术的影响.md
               - 论文阅读笔记:
                       - TENET：A Framework for Modeling Tensor Dataflow Based on Relation-centric Notation: reading/TENET.md
                       - Rubick： A Synthesis Framework for Spatial Architectures via Dataflow Decomposition: reading/Rubick.md
