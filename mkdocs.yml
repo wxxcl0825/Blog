@@ -281,6 +281,15 @@ nav:
                       - 控制语句: miscellaneous/verilog/控制语句.md
                       - 块语句: miscellaneous/verilog/块语句.md
                       - 结构语句: miscellaneous/verilog/结构语句.md
+              - chisel:
+                      - Basic Components: miscellaneous/chisel/Basic Components.md
+                      - Build Process and Testing: miscellaneous/chisel/Build Process and Testing.md
+                      - Components: miscellaneous/chisel/Components.md
+                      - Combinational Building Blocks: miscellaneous/chisel/Combinational Building Blocks.md
+                      - Sequential Building Blocks: miscellaneous/chisel/Sequential Building Blocks.md
+                      - Input Processing: miscellaneous/chisel/Input Processing.md
+                      - Finite-State Machines: miscellaneous/chisel/Finite-State Machines.md
+                      - Communicating State Machines: miscellaneous/chisel/Communicating State Machines.md
               - android:
                       - 第一行代码读书笔记——Kotlin: miscellaneous/android/第一行代码读书笔记——Kotlin.md
                       - Jetpack Compose学习笔记——UI组件: miscellaneous/android/Jetpack Compose学习笔记——UI组件.md
