@@ -261,6 +261,9 @@ nav:
                       - 基于量子计算的投资组合优化算法: reading/基于量子计算的投资组合优化算法.md
                       - A Quantum Algorithm for Shapley Value Estimation: reading/A Quantum Algorithm for Shapley Value Estimation.md
                       - Quantum random access memory via quantum walk: reading/Quantum random access memory via quantum walk.md
+                      - Parallax - A Compiler for Neutral Atom Quantum Computers under Hardware Constraints: reading/Parallax.md
+                      - Qtenon - Towards Low-Latency Architecture Integration for Accelerating Hybrid Quantum-Classical Computing: reading/Qtenon.md
+                      - Reuse-Aware Compilation for Zoned Quantum Architectures Based on Neutral Atoms: reading/Zoned Architectures.md
       - Computer System:
               - 多面体编译理论学习笔记:
                       - 体系结构对编译技术的影响: computer system/多面体编译理论学习笔记/体系结构对编译技术的影响.md
@@ -270,6 +273,7 @@ nav:
                       - Rubick - A Synthesis Framework for Spatial Architectures via Dataflow Decomposition: reading/Rubick.md
                       - Ansor - Generating High-Performance Tensor Programs for Deep Learning: reading/Ansor.md
                       - A detailed GPU cache model based on reuse distance theory: reading/GPU cache model.md
+                      - Programming Distributed Accelerator System with Code Generation Compiler: reading/Triton distribute.md
       - Miscellaneous:
               - miscellaneous/index.md
               - verilog:
